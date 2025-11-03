@@ -224,7 +224,7 @@ if st.button("Run Load Flow"):
         showlegend=False,
         xaxis=dict(showgrid=False, zeroline=False, visible=False),
         yaxis=dict(showgrid=False, zeroline=False, visible=False),
-        plot_bgcolor="#485000",
+        plot_bgcolor="#3EA4F8",
         height=700
     )
 
